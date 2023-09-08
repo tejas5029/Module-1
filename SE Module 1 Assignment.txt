@@ -1,0 +1,55 @@
+SE Module 1 Assignment
+
+
+1] What is software? What is software engineering? 
+
+=>Software is a program or set of programs containing instructions that provide desired functionality. And Engineering is the process of designing and building something that serves a particular purpose and finds a cost-effective solution to problems.
+
+2] Explain types of software
+
+=>Application software-The most common type of software, application software is a computer software package that performs a specific function for a user, or in some cases, for another application.
+
+=>System software-System software is designed to run a computer's hardware and provides a platform for applications to run on top of.
+
+=>Driver software-Also known as device drivers, this software is often considered a type of system software. Device drivers control the devices and peripherals connected to a computer, enabling them to perform their specific tasks. Every device that is connected to a computer needs at least one device driver to function. 
+
+=>Middleware-The term middleware describes software that mediates between application and system software or between two different kinds of application software. For example, middleware enables Microsoft Windows to talk to Excel and Word. It is also used to send a remote work request from an application in a computer that has one kind of OS, to an application in a computer with a different OS. It also enables newer applications to work with legacy ones.
+
+=>Programming software- Computer programmers use programming software to write code. Programming software and programming tools enable developers to develop, write, test and debug other software programs. Examples of programming software include assemblers, compilers, debuggers and interpreters.
+
+3]What is SDLC? Explain each phase of SDLC.
+
+=>The Software Development Life Cycle (SDLC) is a process used by software development organizations to plan, design, develop, test, deploy, and maintain software applications.
+
+1. Requirements gathering and analysis: This phase involves gathering information about the software requirements from stakeholders, such as customers, end-users, and business analysts.
+
+2. Design: In this phase, the software design is created, which includes the overall architecture of the software, data structures, and interfaces. It has two steps:
+
+High-level design (HLD): It gives the architecture of software products.
+Low-level design (LLD): It describes how each and every feature in the product should work and every component.
+
+3. Implementation or coding: The design is then implemented in code, usually in several iterations, and this phase is also called as Development.
+
+4.Testing: The software is thoroughly tested to ensure that it meets the requirements and works correctly.
+
+5. Deployment: After successful testing, The software is deployed to a production environment and made available to end-users.
+
+6. Maintenance: This phase includes ongoing support, bug fixes, and updates to the software.
+
+4]What is DFD? Create a DFD diagram on Flipkart
+
+=>A data flow diagram (DFD) maps out the flow of information for any process or system. It uses defined symbols like rectangles, circles and arrows, plus short text labels, to show data inputs, outputs, storage points and the routes between each destination.
+
+5]What is Flow chart? Create a flowchart to make addition of two numbers.
+
+=>A flowchart is a diagram that shows an overview of a program . Flowcharts normally use standard symbols to represent the different types of instructions . These symbols are used to construct the flowchart and show the step-by-step solution to the problem. Flowcharts are sometimes known as flow diagrams.
+
+Step 1: Start.
+Step 2: Declare sum to 0 (This is optional step, during step5 we can add declaration and assign directly as well) 
+Step 3: Read number num1. 
+Step 4: Read number num2. 
+Step 5: Add num1 and num2 and assign result to variable sum.
+
+6]What is Use case Diagram? Create a use-case on bill payment on paytm.
+
+=>Use-case diagrams describe the high-level functions and scope of a system. These diagrams also identify the interactions between the system and its actors. The use cases and actors in use-case diagrams describe what the system does and how the actors use it, but not how the system operates internally.
